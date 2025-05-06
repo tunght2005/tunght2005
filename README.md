@@ -4,10 +4,10 @@
 I'm a passionate **Full-stack Developer** and **Tech Enthusiast**. I love working with both frontend and backend technologies, building modern, scalable applications. 🚀
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tunght2005&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tunght2005&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tunght2005)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunght2005&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tunght2005&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunght2005&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tunght2005)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tunght2005)
 # 🛠 Languages and Tools
