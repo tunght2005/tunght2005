@@ -1,17 +1,19 @@
 
-## Hi there, I'm Tung! 👋
+<h1 align="center">Hi there, I'm Tung! 👋</h1>
 
-I'm a passionate **Full-stack Developer** and **Tech Enthusiast**. I love working with both frontend and backend technologies, building modern, scalable applications. 🚀
+<p align="center" style="font-size: 30px;">
+  I'm a passionate <strong>Full-stack Developer</strong> and <strong>Tech Enthusiast</strong>. <br/>
+  I love working with both frontend and backend technologies to build modern, scalable applications. 🚀
+</p>
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tunght2005&theme=radical&hide_border=true&include_all_commits=true&count_private=false" width="80%" />
+</p>
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunght2005&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tunght2005&theme=radical" width="80%" />
+</p>
 
----
-
-# 📝 Profile Details:
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tunght2005&theme=radical)
-
----
 
 # 🔥 GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=radical&hide_border=true)
