@@ -7,7 +7,9 @@
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=radical&hide_border=true" width="80%" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=radical&hide_border=true" width="80%" /> -->
+  <img src="https://streak-stats.demolab.com?user=tunght2005&theme=radical&hide_border=true" width="80%" />
+
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tunght2005&theme=radical" width="80%" />
