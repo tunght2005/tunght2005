@@ -41,4 +41,4 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=tunght2005.visitor-badge)
+![](https://komarev.com/ghpvc/?username=tunght2005&label=PROFILE+VIEWS)
