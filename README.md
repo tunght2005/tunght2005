@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,100:764ba2&text=Lê%20Văn%20Tùng&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20•%20Node.js%20•%20Express%20•%20MongoDB&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,100:764ba2&text=Welcome%20to%20my%20GitHome%20👋&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20Vietnam&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=667EEA&center=true&width=700&lines=Backend+Developer;Node.js+%7C+Express+%7C+TypeScript;MongoDB+%7C+MySQL+%7C+RESTful+API;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=667EEA&center=true&width=700&lines=Software+Engineer;Backend+Developer+%7C+Node.js+%7C+Express;TypeScript+%7C+MongoDB+%7C+MySQL;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -12,6 +12,21 @@
     <img src="https://img.shields.io/github/followers/tunght2005?style=flat-square&logo=github&color=667eea" alt="Followers"/>
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+> **"Turning logic into clean code and complex problems into scalable solutions."**
+
+Hi there! My name is **Tung** and I'm a passionate **Software Engineer** based in Vietnam 🇻🇳. 
+
+- 🎓 **Education:** Currently studying **Information Technology** at **Ho Chi Minh City University of Transport (UTH)**.
+- 💻 **Specialization:** Focusing on **Backend Development** with Node.js, TypeScript, Express, and Database Systems (SQL & NoSQL).
+- 🎯 **Goals:** Constantly striving to learn, improve engineering skills, and build meaningful software products that solve real-world problems.
+- ⚡ **Fun Fact:** When I'm not coding, I'm exploring modern web technologies and cloud infrastructure.
+
+---
 
 ## 💻 Tech Stack
 
@@ -33,7 +48,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Tools
+### Tools & Utilities
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -46,12 +61,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tunght2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tung's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunght2005&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunght2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Tung's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunght2005&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tunght2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,7 +83,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Connect
 
 <p align="center">
   <a href="mailto:tunght2005@gmail.com">
