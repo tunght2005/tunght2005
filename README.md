@@ -1,70 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,100:764ba2&text=Welcome%20To%20My%20GitHome%20👋&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20•%20VIETNAM&descAlignY=60"/>
-</p>
+<!-- ============================== HEADER ============================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=667EEA&center=true&width=700&lines=Software+Engineer;Always+Learning+New+Technologies" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:667eea,100:764ba2&text=Le%20Van%20Tung&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20React&descAlignY=60&descSize=18&animation=fadeIn" alt="Le Van Tung - Fullstack Developer" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tunght2005&style=flat-square&color=667eea" alt="Profile Views"/>
-  <a href="https://github.com/tunght2005">
-    <img src="https://img.shields.io/github/followers/tunght2005?style=flat-square&logo=github&color=667eea" alt="Followers"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=667EEA&center=true&vCenter=true&width=720&lines=Turning+logic+into+clean+code;Building+scalable+REST+APIs+with+Node.js;Crafting+React+%26+TypeScript+interfaces;Always+learning%2C+always+shipping" alt="Typing animation" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/t%C3%B9ng-l%C3%AA-015512378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tunght2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://facebook.com/tung.lee.794628"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<img src="https://komarev.com/ghpvc/?username=tunght2005&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+Hi, I'm **Tung**, a software engineering student at **Ho Chi Minh City University of Transport (UTH)**, graduating in **2027**, based in Vietnam 🇻🇳.
+
+I focus on **backend development** with Node.js and TypeScript, and I build the **React** interfaces that sit on top of it. I enjoy turning real-world workflows (e-commerce, education centers, public transport) into clean, maintainable software.
+
+| | |
+| :-- | :-- |
+| 🔭 **Currently** | Leading a team building **BusGo Multipass**, a public-transport card registration and review system (React + TypeScript) |
+| 🎯 **Looking for** | Fullstack / Backend **internship** and junior opportunities |
+| 🌱 **Learning** | System design, caching with Redis, testing, and CI/CD |
+| 💬 **Ask me about** | REST API design, JWT & RBAC, payment integration (VNPay, PayPal), React + TanStack Query |
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-> **"Turning logic into clean code and complex problems into scalable solutions."**
+<div align="center">
 
-Hi there! My name is **Tung** and I'm a passionate **Software Engineer** based in Vietnam 🇻🇳. 
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,mongodb,mysql,postgres&perline=7" alt="Backend stack" />
 
-- 🎓 **Education:** Currently studying **Information Technology** at **Ho Chi Minh City University of Transport (UTH)**.
-- 💻 **Specialization:** Focusing on **Backend Development** with Node.js, TypeScript, Express, and Database Systems (SQL & NoSQL).
-- 🎯 **Goals:** Constantly striving to learn, improve engineering skills, and build meaningful software products that solve real-world problems.
----
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=6" alt="Frontend stack" />
 
-## 💻 Tech Stack
+**Tools & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,cloudflare,aws&perline=7" alt="Tools" />
 
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Tools & Utilities
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+</div>
 
 ---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/tunght2005/b2c-ecommerce-api"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tunght2005&repo=b2c-ecommerce-api&theme=tokyonight&hide_border=true" alt="b2c-ecommerce-api" /></a>
+<a href="https://github.com/tunght2005/center-mangement-system-BE"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tunght2005&repo=center-mangement-system-BE&theme=tokyonight&hide_border=true" alt="center-mangement-system-BE" /></a>
+<a href="https://github.com/tunght2005/facecloud-be"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tunght2005&repo=facecloud-be&theme=tokyonight&hide_border=true" alt="facecloud-be" /></a>
+<a href="https://github.com/tunght2005/Food-Manage-FE"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tunght2005&repo=Food-Manage-FE&theme=tokyonight&hide_border=true" alt="Food-Manage-FE" /></a>
+
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunght2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Tung's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunght2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunght2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tunght2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
 ---
 
 ## 🐍 Contribution Graph
@@ -79,20 +84,14 @@ Hi there! My name is **Tung** and I'm a passionate **Software Engineer** based i
 
 ---
 
-## 📫 Contact & Connect
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:tunght2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/tung.lee.794628" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tunght2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+I'm open to internships and collaboration. Feel free to reach out by [email](mailto:tunght2005@gmail.com) or [LinkedIn](https://www.linkedin.com/in/t%C3%B9ng-l%C3%AA-015512378/).
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:667eea,100:764ba2"/>
-</p>
+<div align="center">
+
+<i>"Turning logic into clean code and complex problems into scalable solutions."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:667eea,100:764ba2" alt="footer" />
+
+</div>
