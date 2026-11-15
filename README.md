@@ -72,25 +72,71 @@ I focus on **Backend Development** with Node.js and TypeScript, while building m
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tunght2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8b5cf6&icon_color=667eea&ring_color=a855f7" alt="GitHub Stats" />
+  <!-- Overview -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/overview.dark.svg"
+    />
+    <img
+      src="./assets/overview.light.svg"
+      alt="GitHub Overview Stats"
+      width="100%"
+    />
+  </picture>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunght2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6" alt="Top Languages" />
+  <br/>
 
-  <br />
+  <!-- Top Languages -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/languages.dark.svg"
+    />
+    <img
+      src="./assets/languages.light.svg"
+      alt="Top Languages"
+      width="100%"
+    />
+  </picture>
 
-  <img src="https://streak-stats.demolab.com/?user=tunght2005&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  <br/>
 
-  <br />
+  <!-- Contribution Momentum -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/momentum.dark.svg"
+    />
+    <img
+      src="./assets/momentum.light.svg"
+      alt="Contribution Activity"
+      width="100%"
+    />
+  </picture>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunght2005&theme=tokyo-night&bg_color=0d1117&color=8b5cf6&line=667eea&point=ffffff&area=true&area_color=764ba2&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <br/>
+
+  <!-- Contribution History -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/lifetime.dark.svg"
+    />
+    <img
+      src="./assets/lifetime.light.svg"
+      alt="GitHub Contribution History"
+      width="100%"
+    />
+  </picture>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contribution Graph
 
