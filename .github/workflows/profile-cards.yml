@@ -1,29 +1,99 @@
-
-name: Update GitHub Profile Cards
+name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  generate-profile-cards:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Profile Cards
+      - name: Generate momentum card
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: tunght2005
-          cards: overview,momentum,contributions,lifetime,languages
-          output-dir: assets
+          cards: momentum
           themes: light,dark
           palette: purple
+          output-dir: assets
           commit: true
+
+  generate-metrics-base:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate base metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.base.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: tunght2005
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          config_display: large
+          config_padding: 12
+          theme: tokyonight
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_followup: no
+          plugin_topics: no
+          plugin_stars: no
+
+  generate-metrics-languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate languages metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: tunght2005
+          template: classic
+          base: ""
+          config_timezone: Asia/Ho_Chi_Minh
+          config_display: large
+          config_padding: 12
+          theme: tokyonight
+          plugin_languages: yes
+          plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+
+  generate-metrics-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: tunght2005
+          template: classic
+          base: ""
+          config_timezone: Asia/Ho_Chi_Minh
+          config_display: large
+          config_padding: 12
+          theme: tokyonight
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
