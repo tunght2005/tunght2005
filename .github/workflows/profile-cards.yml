@@ -1,0 +1,29 @@
+
+name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate Profile Cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: tunght2005
+          cards: overview,momentum,contributions,lifetime,languages
+          output-dir: assets
+          themes: light,dark
+          palette: purple
+          commit: true
