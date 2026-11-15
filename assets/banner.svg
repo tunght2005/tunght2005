@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Le Van Tung, Fullstack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4f46e5"/><stop offset="0.55" stop-color="#7c3aed"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="r"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="1040" cy="60" r="190" fill="#fff" opacity="0.07"><animateTransform attributeName="transform" type="translate" values="0 0;-18 14;0 0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="250" r="120" fill="#fff" opacity="0.08"><animateTransform attributeName="transform" type="translate" values="0 0;14 -12;0 0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="300" r="90" fill="#fff" opacity="0.06"><animateTransform attributeName="transform" type="translate" values="0 0;-10 -16;0 0" dur="8s" repeatCount="indefinite"/></circle>
+    <rect x="-400" width="300" height="300" fill="url(#shine)" transform="skewX(-20)"><animate attributeName="x" values="-400;1500" dur="6s" repeatCount="indefinite"/></rect>
+    <text x="1080" y="215" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="120" font-weight="700" fill="#fff" opacity="0.10">&lt;/&gt;</text>
+  </g>
+  <text x="80" y="92" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="22" font-weight="600" fill="#ddd6fe" letter-spacing="3">HELLO, I'M</text>
+  <text x="80" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="1">LE VAN TUNG</text>
+  <text x="80" y="196" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="21" fill="#e9e4ff" opacity="1">
+      Building scalable REST APIs with Node.js<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.001;0.220;0.250;1" values="1;1;1;0;0"/></text>
+<text x="80" y="196" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="21" fill="#e9e4ff" opacity="0">
+      Crafting React + TypeScript interfaces<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.250;0.270;0.470;0.500;1" values="0;0;1;1;0;0"/></text>
+<text x="80" y="196" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="21" fill="#e9e4ff" opacity="0">
+      Turning logic into clean code<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.500;0.520;0.720;0.750;1" values="0;0;1;1;0;0"/></text>
+<text x="80" y="196" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="21" fill="#e9e4ff" opacity="0">
+      Always learning, always shipping<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.750;0.770;0.970;1.000;1" values="0;0;1;1;0;0"/></text>
+
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="14" font-weight="600">
+    <rect x="80" y="232" width="152" height="30" rx="15" fill="#fff" fill-opacity="0.18"/><text x="156" y="252" text-anchor="middle" fill="#fff">Fullstack Developer</text>
+    <rect x="244" y="232" width="190" height="30" rx="15" fill="#fff" fill-opacity="0.18"/><text x="339" y="252" text-anchor="middle" fill="#fff">UTH · Class of 2027</text>
+    <rect x="446" y="232" width="180" height="30" rx="15" fill="#fff" fill-opacity="0.18"/><text x="536" y="252" text-anchor="middle" fill="#fff">Open to internships</text>
+  </g>
+</svg>

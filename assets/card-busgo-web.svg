@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220" role="img" aria-label="BusGo Web">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16a34a"/><stop offset="1" stop-color="#0ba84f"/></linearGradient>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#16a34a"/><stop offset="1" stop-color="#0ba84f"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="218" rx="16" fill="#0d1117" stroke="url(#b)" stroke-width="1.5" stroke-opacity="0.65"/>
+  <rect x="1" y="1" width="438" height="218" rx="16" fill="url(#b)" fill-opacity="0.05"/>
+  <rect x="28" y="26" width="38" height="38" rx="10" fill="url(#b)"/>
+  <text x="47" y="51" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="15" font-weight="800" fill="#fff">BW</text>
+  <text x="80" y="42" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">BusGo Web</text>
+  <text x="80" y="60" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#16a34a">React · TypeScript · Vite</text>
+  <rect x="28" y="74" width="384" height="1" fill="url(#bar)" opacity="0.35"/>
+  <text x="28" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="14" fill="#9aa4b2">Staff portal to review priority bus-card</text><text x="28" y="119" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="14" fill="#9aa4b2">applications: RBAC, bulk approval, card</text><text x="28" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="14" fill="#9aa4b2">issuance and Excel export. (private)</text>
+  <rect x="28" y="170" width="118" height="24" rx="12" fill="#16a34a" fill-opacity="0.16" stroke="#16a34a" stroke-opacity="0.5"/><text x="87" y="186" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="12" font-weight="600" fill="#e6edf3">TanStack Query</text><rect x="153.60000000000002" y="170" width="73" height="24" rx="12" fill="#16a34a" fill-opacity="0.16" stroke="#16a34a" stroke-opacity="0.5"/><text x="190" y="186" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Tailwind</text><rect x="234.8" y="170" width="81" height="24" rx="12" fill="#16a34a" fill-opacity="0.16" stroke="#16a34a" stroke-opacity="0.5"/><text x="275" y="186" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Team Lead</text>
+  <rect x="28" y="206" width="60" height="3" rx="1.5" fill="url(#bar)"/>
+</svg>
