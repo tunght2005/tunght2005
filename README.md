@@ -81,33 +81,33 @@ I focus on **Backend Development** with Node.js and TypeScript, while building m
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/overview.dark.svg"
+      srcset="./assets/metrics.base.svg"
     />
     <img
-      src="./assets/overview.light.svg"
-      alt="GitHub Overview Stats"
+      src="./assets/metrics.base.svg"
+      alt="GitHub Overview"
       width="100%"
     />
   </picture>
 
-  <br/>
+  <br />
 
-  <!-- Top Languages -->
+  <!-- Languages -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/languages.dark.svg"
+      srcset="./assets/metrics.languages.svg"
     />
     <img
-      src="./assets/languages.light.svg"
+      src="./assets/metrics.languages.svg"
       alt="Top Languages"
       width="100%"
     />
   </picture>
 
-  <br/>
+  <br />
 
-  <!-- Contribution Momentum -->
+  <!-- Momentum -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -115,28 +115,14 @@ I focus on **Backend Development** with Node.js and TypeScript, while building m
     />
     <img
       src="./assets/momentum.light.svg"
-      alt="Contribution Activity"
-      width="100%"
-    />
-  </picture>
-
-  <br/>
-
-  <!-- Contribution History -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/lifetime.dark.svg"
-    />
-    <img
-      src="./assets/lifetime.light.svg"
-      alt="GitHub Contribution History"
+      alt="Contribution Momentum"
       width="100%"
     />
   </picture>
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contribution Graph
 
@@ -151,8 +137,8 @@ I focus on **Backend Development** with Node.js and TypeScript, while building m
       srcset="https://raw.githubusercontent.com/tunght2005/tunght2005/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/tunght2005/tunght2005/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
       width="100%"
     />
   </picture>
